@@ -12,12 +12,22 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    font-family: "Montserrat", monospace;
+  }
+  #carouselOverlay h1 {
+    font-family: Impact, "Arial Black", sans-serif;
+    font-size: 3.8rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
   }
 </style>
 <div id="carousel" class="carousel slide" style="height: 50vh; position: relative;">
   <div id="carouselOverlay">
     <h1>Next Sing</h1>
-    <p>MIT's newest large music group.</p>
+    <br>
+    <p>MIT's low-commitment, beginner-friendly acapella group</p>
+    <p>Based in Next House, open to all!</p>
   </div>
   <div class="carousel-inner" style="height: 100%;">
     {% assign image_files = site.static_files | where: "slide", true %}
