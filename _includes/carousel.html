@@ -57,11 +57,34 @@
   </div>
 </div>
 <script>
+  //lazy loading: only load images in the carousel if they're right before or after the current slide
   $(() => {
-    return $('#carousel').on('slide.bs.carousel', (ev) => {
-      let lazy = $(ev.relatedTarget).find('img[data-src]')
-      lazy.attr('src', lazy.data('src'))
-      lazy.removeAttr('data-src')
-    })
+    function loadSlideImage($slide) {
+      if (!$slide || !$slide.length) return;
+      let $lazy = $slide.find('img[data-src]');
+      $lazy.attr('src', $lazy.data('src'));
+      $lazy.removeAttr('data-src');
+    }
+
+    // upon page load, immediately load last and second images
+    loadSlideImage($('#carousel .carousel-item').eq(1));
+    loadSlideImage($('#carousel .carousel-item').eq(-1));
+
+    // every time a slide is flipped, preload the next and previous slides
+    $('#carousel').on('slid.bs.carousel', (ev) => {
+      let $active = $(ev.relatedTarget)
+      let $carousel = $(ev.delegateTarget)
+
+      // Get next and previous slide elements
+      let $next = $active.next('.carousel-item');
+      if (!$next.length) $next = $carousel.find('.carousel-item').first(); // Wrap around
+
+      let $prev = $active.prev('.carousel-item');
+      if (!$prev.length) $prev = $carousel.find('.carousel-item').last();  // Wrap around
+
+      // Preload next and previous slide in the background
+      loadSlideImage($next);
+      loadSlideImage($prev);
+    });
   })
 </script>
