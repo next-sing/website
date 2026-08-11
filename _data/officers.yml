@@ -1,4 +1,5 @@
 current:
+past:
   - position: President
     name: Shannon Weng
     kerberos: sweng
@@ -102,7 +103,6 @@ current:
     description: >
       I don't actually sing. Idk why I'm here. I take photos and pretend to
       play drums.
-past:
   - position: Show Coordinator, Treasurer (Fall 2019)
     name: Natasha Stark
     kerberos: nnmss
