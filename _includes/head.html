@@ -11,4 +11,17 @@
   <link rel="stylesheet" href="{{ "/dist/css/app.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/custom.css" | relative_url }}">
   <script src="{{ "/dist/js/app.js" | relative_url }}"></script>
+  <script>
+  $(function() {
+    $(window).on('scroll', function() {
+      var scrollTop = $(window).scrollTop();
+
+      if (scrollTop > 60) {
+        $('.navbar').addClass('navbar-shrink');
+      } else if (scrollTop < 20) {
+        $('.navbar').removeClass('navbar-shrink');
+      }
+    });
+  });
+</script>
 </head>
