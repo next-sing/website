@@ -3,35 +3,49 @@ layout: page
 title: Audition
 permalink: /audition/
 ---
-### Sign up to audition [here](https://docs.google.com/forms/d/e/1FAIpQLSdi-ObLfylNy7jV7kFIkuAh1bttU8LrYnPpY81PQyZF4X2u9A/viewform)
 
-Thank you for your interest in auditioning! Auditions will be held from
-5:00&ndash;10:00 p.m. this Friday, January 7, 2020, and 12:00&ndash;5:00 p.m.
-and 7:00&ndash;9:00 p.m. on Saturday and Sunday, January 8&ndash;9, 2020, in the
-Next House Conference Room in the basement.
+Fall 2026 audition info coming soon!
 
-**Note that this is the audition time and place regardless of which acts you are
-interested in.** Each audition slot is 12 minutes long. If you do not live in
-Next House, we'll tap you in and lead you to the right place!
+<hr class="my-5">
 
-**What to prepare for your audition**: please prepare roughly 90 seconds of any
-song or piece. For *piano, guitar, and drums instrumental auditions only*, your
-audition will include sightreading. A piano and drumkit will be available in
-your audition room.
+<div class="row">
 
-{% comment %}
-The audition form closes on 2/7/19 0:00 EST. You will be assigned and emailed audition time(s) within 24 hours of
-the form close. If you cannot make your assigned audition time(s), please contact us as soon as possible. We will
-either reassign you to different time slot(s) or try to arrange an alternative audition. Due to time and
-availability constraints, it may be impossible for us to arrange an alternative audition for everyone who reqeusts
-one.
-{% endcomment %}
+  <div class="col-md-6 mb-4">
+    <div class="px-4 pt-1 pb-4 border rounded shadow-sm h-100 bg-light">
+      <h3 class="h4 mb-3">What are auditions like?</h3>
+      <p>
+        We hold informal auditions at the beginning of every semester, and they're just for act placement purposes. Each slot is about 15 minutes long. If you don't live in Next House, we'll tap you in at the door and lead you to the right room.
+      </p>
+      <p>
+        The only thing you need to prepare beforehand is a 60-90 second solo (chorus + verse) of any song (it can be anything — we've heard many renditions of Happy Birthday)!
+      </p>
+      <p>
+        We're open to all skill levels (no prior acapella experience required)!
+      </p>
+    </div>
+  </div>
 
-{% comment %}
-### Want to be an act lead?
+  <div class="col-md-6 mb-4">
+    <div class="px-4 pt-1 pb-4 border rounded shadow-sm h-100 bg-light">
+      <h3 class="h4 mb-3">Want to be an Act Lead?</h3>
+      <p>
+        Got a specific song you've been dying to arrange or direct? Act leads run weekly rehearsals for their group and bring their musical vision to life for the end-of-semester concert! Act leads are incredibly important for keeping Next Sing thriving every semester.
+      </p>
 
-- About 2 hrs/wk per song arranged
-- Participate in act lead social events!
-- Perform what *you* like, no genre restrictions
-- Sounds cool? Fill out this [form!](old link)
-{% endcomment %}
+      <p>
+        Act leads are expected to:
+      </p>
+
+      <ul class="pl-3 mb-3">
+        <li>Prepare an arrangement before the semester begins (either by finding one or arranging your own)</li>
+        <li>Spend 1-2 hours a week running a rehearsal and handling logistics, reviewing recordings, etc</li>
+        <li>Be excited about the music and ready to lead a small group!</li>
+      </ul>
+
+      <p class="mb-2">
+        <em>Sounds cool? Keep an eye out for the act lead interest form opening before the beginning of each semester.</em>
+      </p>
+    </div>
+  </div>
+
+</div>
