@@ -1,0 +1,153 @@
+/* GLOBAL 
+*/
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  color: #222222;
+  line-height: 1.6;
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.main-wrapper {
+  flex-grow: 1;
+}
+
+/* PAGE
+*/
+
+.page-header {
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.page-header .page-title {
+  font-size: 2rem;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 1rem;
+  text-transform: uppercase
+}
+
+.page-content h3 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  letter-spacing: -0.01em;
+}
+
+.page-content {
+  padding-top: 0.5px;
+}
+
+/* NAVBAR
+*/
+
+.navbar {
+  border-bottom: 1px solid #e5e5e5;
+  transition: padding 0.5s ease-in-out, box-shadow 0.5s ease-in-out, background-color 0.5s ease-in-out;
+}
+
+.navbar-nav {
+  gap: 1.25rem;
+}
+
+.navbar-nav .nav-link {
+  color: #555555;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: 450;
+  letter-spacing: 0.01em;
+
+  padding-bottom: 0.1rem;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease-in-out;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #333333;
+}
+
+.navbar-nav .nav-item.active .nav-link {
+  color: #333333;
+  font-weight: 600;
+}
+
+.navbar-title {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  letter-spacing: 0.001em;
+  color: #333333;
+  margin-left: 0.5rem;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+
+.navbar.navbar-shrink {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+@media (min-width: 992px) {
+  .navbar-nav .nav-link:hover {
+    border-bottom-color: #333333;
+  }
+
+  .navbar-nav .nav-item.active .nav-link {
+    border-bottom-color: #333333;
+  }
+}
+
+
+/*
+FOOTER
+*/
+.footer-icon {
+  color: #adb5bd !important;
+  transition: all 0.2s ease-in-out;
+  display: inline-block;
+}
+
+.footer-icon:hover {
+  color: #ffffff !important;
+  transform: translateY(-3px);
+}
+
+/* CAROUSEL
+*/
+
+#carouselOverlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Montserrat", monospace;
+}
+
+#carouselOverlay h1 {
+    color: #ffffff;
+    font-family: "Trebuchet MS", sans-serif;
+    font-weight: 900;
+    font-size: 3.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 1.5rem;
+}
