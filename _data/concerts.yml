@@ -1,3 +1,86 @@
+spring26:
+  theme: My Tiny Horsie
+  acts:
+    - title: Do You Hear the People Sing?
+      artists: Alain Boublil
+      leads: David Dong, Henry Jiang, Michelle Liang, Derek Liu, Henrick Rabinovitz, Eric Zhan, et al.
+      performers: >
+        et al.
+      description: >
+        when the beating of your heart echoes the beating of the... beatboxer? what?
+      video:
+    - title: Against the Kitchen Floor
+      artists: Will Wood
+      leads: Shreya Mogulothu, Michelle Mo
+      performers: >
+        Andrew Carratu, David Dong, Daph Guo, Henry Jiang, Tori Kelley, Ellie Lei, Michelle Liang, Elliott Liu, Sarah Porter
+      description: >
+        we're really trying
+      video:
+    - title: Lemon Tree
+      artists: Fools Garden
+      leads: Eric Zhan
+      performers: >
+        Advaith Avadhanam, Ellie Feng, Christopher Gilbert, Jacob Greene, Della Hendrickson, Aurora Huang, Allison Hung, Ruby Claire Johnson-Leung,
+      description: >
+        is the tree itself yellow or are only its lemons yellow? I guess we'll never know
+      video:
+    - title: Pink Pony Club
+      artists: Chappell Roan
+      leads: Derek Liu, Michelle Mo
+      performers: >
+        Ellie Feng, Douglas Granillo, Allison Hung, Bernie Jin, Ellie Lei, Shreya Mogulothu, Kat Perez, Mark Saengrungkongka, Nick Soule, Brian Zhang, Cindy Zhan
+      description: >
+        lesbian country roads
+      video:
+    - title: Your Reality (DDLC OST)
+      artists: Dan Salvato
+      leads: Henry Jiang
+      performers: >
+       Andrew Carratu, David Dong, Daph Guo, Felicity Ni, Mark Saengrungkongka, Raine Wen, Leo Yao, Jonathan Ye
+      description: >
+        just a cute, innocent song by a cute anime girl
+      video:
+    - title: The Horse and the Infant
+      artists: Jorge Rivera-Herrans
+      leads: Aurora Huang, Michelle Liang
+      performers: >
+        Della Hendrickson, Allison Hung, June Jimenez, Andrew Lin, Gloria Ma, Alexa Simao, Frank Wang, Cindy Zhang
+      description: >
+        kill the baby >:)
+      video:
+    - title: Someone You Loved
+      artists: Lewis Capaldi
+      leads: Eric Zhan
+      performers: >
+        Allison Eto, June Jimenez, Juni Kim, Tri Nguyen, Nick Soule, Raine Wen, Jonathan Ye,
+      description: >
+         and someone you knew, heard, had, and held
+      video:
+    - title: 学猫叫 (Learn To Meow)
+      artists: Xiao Pan Pan, Xiao Feng Feng
+      leads: Leo Yao
+      performers: >
+         Dylan Dalida, David Dong, Jackson Dryg, Michelle Liang, Felicity Ni, Brandy Romine, Tina Zhang
+      description: >
+         yi qi miao miao miao miao miao
+      video:
+    - title: ローリンガール (Rolling Girl)
+      artists: Wowaka
+      leads: Henry Jiang, Derek Liu
+      performers: >
+         David Dong, Andrew Lin, Sarah Porter, Eric Wang, Frank Wang, Ellen Wu, Heidi Zhang
+      description: >
+         RIP Wowaka (1987-2019)
+      video:
+    - title: vampire x Happier Than Ever
+      artists: Olivia Rodrigo and Billie Eilish
+      leads: Frank Wang
+      performers: >
+         Ellie Feng, Jacob Greene, Allison Hung, Bernie Jin, Elliott Liu, Gloria Ma, Raine Wen, Leo Yao, Heidi Zhang
+      description: >
+         Don't worry, we're not actually toxic exes
+      video:
 fall19:
   theme: Introducing Obsidian feat. Wash Lava
   acts:
