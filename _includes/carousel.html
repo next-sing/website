@@ -25,7 +25,6 @@
 <div id="carousel" class="carousel slide" style="height: 50vh; position: relative;">
   <div id="carouselOverlay">
     <h1>Next Sing</h1>
-    <br>
     <p>MIT's low-commitment, beginner-friendly acapella group</p>
     <p>Based in Next House, open to all!</p>
   </div>
@@ -43,7 +42,7 @@
         {% else %}
           data-src="{{ image.path | relative_url }}"
         {% endif %}
-        alt="Slide {{ forloop.index0 }}" style="object-fit: cover; height: 100%;">
+        alt="Next Sing Photo {{ forloop.index0 }}" style="object-fit: cover; height: 100%;">
       </div>
     {% endfor %}
     <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev" style="margin: 100px 0;">
