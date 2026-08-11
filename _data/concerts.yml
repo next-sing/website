@@ -8,7 +8,7 @@ spring26:
         et al.
       description: >
         when the beating of your heart echoes the beating of the... beatboxer? what?
-      video:
+      video: https://www.youtube.com/watch?v=3Bp8OMzoqQc&t=968s
     - title: Against the Kitchen Floor
       artists: Will Wood
       leads: Shreya Mogulothu, Michelle Mo
@@ -16,7 +16,7 @@ spring26:
         Andrew Carratu, David Dong, Daph Guo, Henry Jiang, Tori Kelley, Ellie Lei, Michelle Liang, Elliott Liu, Sarah Porter
       description: >
         we're really trying
-      video:
+      video: https://www.youtube.com/watch?v=3Bp8OMzoqQc&t=1242s
     - title: Lemon Tree
       artists: Fools Garden
       leads: Eric Zhan
@@ -24,7 +24,7 @@ spring26:
         Advaith Avadhanam, Ellie Feng, Christopher Gilbert, Jacob Greene, Della Hendrickson, Aurora Huang, Allison Hung, Ruby Claire Johnson-Leung,
       description: >
         is the tree itself yellow or are only its lemons yellow? I guess we'll never know
-      video:
+      video: https://www.youtube.com/watch?v=3Bp8OMzoqQc&t=1935s
     - title: Pink Pony Club
       artists: Chappell Roan
       leads: Derek Liu, Michelle Mo
@@ -32,7 +32,7 @@ spring26:
         Ellie Feng, Douglas Granillo, Allison Hung, Bernie Jin, Ellie Lei, Shreya Mogulothu, Kat Perez, Mark Saengrungkongka, Nick Soule, Brian Zhang, Cindy Zhan
       description: >
         lesbian country roads
-      video:
+      video: https://www.youtube.com/watch?v=3Bp8OMzoqQc&t=2191s
     - title: Your Reality (DDLC OST)
       artists: Dan Salvato
       leads: Henry Jiang
@@ -40,7 +40,7 @@ spring26:
        Andrew Carratu, David Dong, Daph Guo, Felicity Ni, Mark Saengrungkongka, Raine Wen, Leo Yao, Jonathan Ye
       description: >
         just a cute, innocent song by a cute anime girl
-      video:
+      video: https://www.youtube.com/watch?v=3Bp8OMzoqQc&t=2726s
     - title: The Horse and the Infant
       artists: Jorge Rivera-Herrans
       leads: Aurora Huang, Michelle Liang
@@ -48,7 +48,7 @@ spring26:
         Della Hendrickson, Allison Hung, June Jimenez, Andrew Lin, Gloria Ma, Alexa Simao, Frank Wang, Cindy Zhang
       description: >
         kill the baby >:)
-      video:
+      video: https://www.youtube.com/watch?v=3Bp8OMzoqQc&t=2970s&pp=0gcJCTEAlc8ueATH
     - title: Someone You Loved
       artists: Lewis Capaldi
       leads: Eric Zhan
@@ -56,7 +56,7 @@ spring26:
         Allison Eto, June Jimenez, Juni Kim, Tri Nguyen, Nick Soule, Raine Wen, Jonathan Ye,
       description: >
          and someone you knew, heard, had, and held
-      video:
+      video: https://www.youtube.com/watch?v=3Bp8OMzoqQc&t=3545s
     - title: 学猫叫 (Learn To Meow)
       artists: Xiao Pan Pan, Xiao Feng Feng
       leads: Leo Yao
@@ -64,7 +64,7 @@ spring26:
          Dylan Dalida, David Dong, Jackson Dryg, Michelle Liang, Felicity Ni, Brandy Romine, Tina Zhang
       description: >
          yi qi miao miao miao miao miao
-      video:
+      video: https://www.youtube.com/watch?v=3Bp8OMzoqQc&t=3781s
     - title: ローリンガール (Rolling Girl)
       artists: Wowaka
       leads: Henry Jiang, Derek Liu
@@ -72,7 +72,7 @@ spring26:
          David Dong, Andrew Lin, Sarah Porter, Eric Wang, Frank Wang, Ellen Wu, Heidi Zhang
       description: >
          RIP Wowaka (1987-2019)
-      video:
+      video: https://www.youtube.com/watch?v=3Bp8OMzoqQc&t=4430s
     - title: vampire x Happier Than Ever
       artists: Olivia Rodrigo and Billie Eilish
       leads: Frank Wang
@@ -80,7 +80,7 @@ spring26:
          Ellie Feng, Jacob Greene, Allison Hung, Bernie Jin, Elliott Liu, Gloria Ma, Raine Wen, Leo Yao, Heidi Zhang
       description: >
          Don't worry, we're not actually toxic exes
-      video:
+      video: https://www.youtube.com/watch?v=3Bp8OMzoqQc&t=4807s
 fall19:
   theme: Introducing Obsidian feat. Wash Lava
   acts:
