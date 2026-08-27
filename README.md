@@ -21,3 +21,7 @@ To run the website during development, use the following command:
 ```bash
 ./node_modules/.bin/webpack --watch | bundle exec jekyll serve --livereload --incremental
 ```
+
+## Images
+
+Static images are not hosted directly in this repository to keep file size down. When setting up or updating the site, retrieve the contents of assets/img/ from the live Athena web directory.
