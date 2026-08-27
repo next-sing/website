@@ -11,3 +11,7 @@ node_modules/
 
 # Webpack
 dist/
+
+# images
+assets/img/*
+!assets/img/.gitkeep
