@@ -165,3 +165,67 @@ FOOTER
     letter-spacing: 1px;
     margin-bottom: 1.5rem;
 }
+
+/* CONCERTS
+*/
+
+  .concert-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 12px;
+    box-sizing: border-box;
+  }
+
+  .banner {
+    max-height: 50vh;
+    width: 100%;
+    object-fit: contain;
+    height: auto;
+  }
+
+  .concert-table-wrap {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin-top: 1rem;
+  }
+
+  .concert-table {
+    width: 100%;
+    min-width: 760px;
+    border-collapse: collapse;
+    table-layout: fixed;
+  }
+
+  .concert-table th,
+  .concert-table td {
+    padding: 0.75rem 0.65rem;
+    vertical-align: top;
+    text-align: left;
+    border-bottom: 1px solid #e5e5e5;
+    word-break: break-word;
+  }
+
+  .concert-table th {
+    background: #f7f7f7;
+    font-weight: 600;
+  }
+
+  @media (max-width: 640px) {
+    .concert-page {
+      padding: 0 8px;
+    }
+
+    .concert-table {
+      min-width: 680px;
+    }
+
+    .concert-table th,
+    .concert-table td {
+      font-size: 0.92rem;
+    }
+  }
