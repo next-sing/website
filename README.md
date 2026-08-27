@@ -6,7 +6,7 @@ This is the code for the website of MIT's newest large music group.
 
 To run the site succesfully, you'll need:
 
-- Ruby 2.4 or newer with Bundler (install via `gem install bundler`)
+- Ruby 2.7 or newer with Bundler (install via `gem install bundler`)
 - Node.js 12.15 or newer
 
 To install the dependencies, run:
