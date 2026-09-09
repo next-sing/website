@@ -4,7 +4,9 @@ title: Audition
 permalink: /audition/
 ---
 
-Fall 2026 audition info coming soon!
+Fall 2026 auditions will be held on the weekend of September 12-13, 3-7pm, in the Next House Conference Room (in the basement). To
+sign up, simply schedule a 15 minute slot here
+[here](https://calendly.com/next-sing-exec-mit/next-sing-auditions-fa26). Walk-ins are also welcome!
 
 <hr class="my-5">
 
